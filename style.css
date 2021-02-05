@@ -7,7 +7,11 @@ h1 {
   text-align: center;
   font-size: 48px;
 }
-
+h3 {
+  font-family: 'Bebas Neue', cursive;
+  text-align: center;
+  font-size: 48px;
+}
 .picture-card {
   width: 200px;
   height: 200px;
@@ -185,7 +189,17 @@ h2 {
   margin-bottom: 10px;
   transition: 0.2s;
 }
-
+.boxe1 {
+  text-align: center;
+  width: 60%;
+  margin: 0 auto;
+  background: green;                         /* White background */
+  padding: 30px;                             /* Internal space */
+  border-radius: 4px;                        /* Small radius */
+  box-shadow: 0 10px 30px rgba(0,0,0,.1);
+  margin-bottom: 10px;
+  transition: 0.2s;
+}
 ul {
   list-style: none;
   padding: 0;
