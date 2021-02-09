@@ -198,8 +198,12 @@ body {
   color:green;
 }
 #AC{
-  color:greenyellow
+  color:yellow;
 }
 #AD{
   color:red
+}
+
+#yes{
+  color:green
 }
